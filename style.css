@@ -72,6 +72,9 @@ body{
     font-weight: bolder;
     
 } */
+table{
+  z-index: 5;
+}
 .item {
   background-image: linear-gradient(
     to right,
